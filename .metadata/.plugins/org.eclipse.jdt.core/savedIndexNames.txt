@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+D:\Software Engineering\2nd Year\2nd semester\IT2070 - Data Structure and Algorithms\01 - Introduction to Stack\Lab1\.metadata\.plugins\org.eclipse.jdt.core
